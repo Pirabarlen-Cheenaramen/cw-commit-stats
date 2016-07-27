@@ -91,5 +91,4 @@
         echo "ewruc";
         echo "whnxt";
         echo "jbfty";
-        echo "omuxa";
 ?>
