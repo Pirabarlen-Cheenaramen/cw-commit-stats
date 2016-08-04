@@ -92,5 +92,4 @@
         echo "whnxt";
         echo "avena";
         echo "oprgc";
-        echo "bnbwh";
 ?>
