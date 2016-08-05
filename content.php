@@ -91,4 +91,6 @@
         echo "ewruc";
         echo "yyocr";
         echo "kunyl";
+        echo "ouhya";
+        echo "ougys";
 ?>
