@@ -103,5 +103,4 @@
         echo "bntjc";
         echo "fpbvo";
         echo "bnvqq";
-        echo "loywp";
 ?>
