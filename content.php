@@ -102,5 +102,4 @@
         echo "rukqu";
         echo "bntjc";
         echo "fpbvo";
-        echo "bnvqq";
 ?>
