@@ -116,5 +116,4 @@
         echo "nfwnw";
         echo "gtweh";
         echo "hlyuw";
-        echo "qxryd";
 ?>
