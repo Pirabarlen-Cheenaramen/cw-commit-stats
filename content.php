@@ -113,7 +113,4 @@
         echo "efeww";
         echo "ncqig";
         echo "eimda";
-        echo "nfwnw";
-        echo "gtweh";
-        echo "dwxjg";
 ?>
