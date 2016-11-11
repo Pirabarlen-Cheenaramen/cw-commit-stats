@@ -109,6 +109,4 @@
         echo "hdhuj";
         echo "myiyc";
         echo "yybht";
-        echo "woiew";
-        echo "axtgf";
 ?>
