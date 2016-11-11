@@ -112,5 +112,4 @@
         echo "woiew";
         echo "efeww";
         echo "ncqig";
-        echo "hipgy";
 ?>
