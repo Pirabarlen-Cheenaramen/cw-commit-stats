@@ -110,5 +110,4 @@
         echo "ycctg";
         echo "cncyg";
         echo "dxibp";
-        echo "pnptx";
 ?>
