@@ -126,6 +126,5 @@
         echo "wphkg";
         echo "egrny";
         echo "eqwov";
-        echo "pguts";
-        echo "cibup";
+        echo "qtdmr";
 ?>
