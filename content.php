@@ -125,5 +125,4 @@
         echo "pyexd";
         echo "wphkg";
         echo "yyvha";
-        echo "gmtie";
 ?>
