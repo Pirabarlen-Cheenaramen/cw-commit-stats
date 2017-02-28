@@ -126,5 +126,6 @@
         echo "wphkg";
         echo "biesh";
         echo "bsmqk";
-        echo "hlstp";
+        echo "twudo";
+        echo "budys";
 ?>
