@@ -127,5 +127,4 @@
         echo "biesh";
         echo "bsmqk";
         echo "mcnvq";
-        echo "qrgtn";
 ?>
