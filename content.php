@@ -129,7 +129,5 @@
         echo "twudo";
         echo "wyhfc";
         echo "fibwy";
-        echo "jtekt";
-        echo "idljr";
-        echo "adicn";
+        echo "nmcqo";
 ?>
