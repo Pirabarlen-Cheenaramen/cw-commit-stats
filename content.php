@@ -129,6 +129,5 @@
         echo "twudo";
         echo "wyhfc";
         echo "fibwy";
-        echo "axvww";
-        echo "odolw";
+        echo "tanua";
 ?>
