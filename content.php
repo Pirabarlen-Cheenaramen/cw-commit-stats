@@ -128,5 +128,4 @@
         echo "bsmqk";
         echo "twudo";
         echo "wyhfc";
-        echo "tsbnb";
 ?>
