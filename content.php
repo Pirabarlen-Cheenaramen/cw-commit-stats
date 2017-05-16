@@ -131,5 +131,4 @@
         echo "cnemf";
         echo "iyaor";
         echo "ficsk";
-        echo "runfe";
 ?>
