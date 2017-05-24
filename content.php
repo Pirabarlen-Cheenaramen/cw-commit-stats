@@ -132,5 +132,5 @@
         echo "iyaor";
         echo "mbntk";
         echo "xmulr";
-        echo "sxvni";
+        echo "scpal";
 ?>
