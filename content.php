@@ -133,5 +133,4 @@
         echo "mbntk";
         echo "xmulr";
         echo "uwdmm";
-        echo "ncrxm";
 ?>
