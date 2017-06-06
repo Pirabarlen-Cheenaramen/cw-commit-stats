@@ -132,5 +132,4 @@
         echo "iyaor";
         echo "mbntk";
         echo "xmulr";
-        echo "hhgwx";
 ?>
