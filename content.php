@@ -133,5 +133,5 @@
         echo "mbntk";
         echo "aoraj";
         echo "ioqho";
-        echo "lrtkx";
+        echo "dhcpq";
 ?>
