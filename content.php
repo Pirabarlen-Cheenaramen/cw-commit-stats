@@ -143,5 +143,4 @@
         echo "bldst";
         echo "vbmxm";
         echo "jpobw";
-        echo "rttpi";
 ?>
