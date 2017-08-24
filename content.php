@@ -146,5 +146,4 @@
         echo "rncsj";
         echo "pgpan";
         echo "ykitu";
-        echo "jnucw";
 ?>
