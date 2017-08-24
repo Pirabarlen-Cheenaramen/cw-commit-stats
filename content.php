@@ -145,5 +145,4 @@
         echo "hvfai";
         echo "rncsj";
         echo "pgpan";
-        echo "ykitu";
 ?>
