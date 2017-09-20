@@ -162,5 +162,4 @@
         echo "oleux";
         echo "xbdxo";
         echo "edfum";
-        echo "nekdl";
 ?>
