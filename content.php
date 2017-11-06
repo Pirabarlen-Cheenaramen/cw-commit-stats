@@ -181,5 +181,4 @@
         echo "bjicu";
         echo "qeijb";
         echo "lpquw";
-        echo "awscy";
 ?>
