@@ -185,5 +185,4 @@
         echo "pnmxw";
         echo "wwbfg";
         echo "esrqm";
-        echo "ktcex";
 ?>
