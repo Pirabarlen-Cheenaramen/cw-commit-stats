@@ -193,5 +193,4 @@
         echo "mrqms";
         echo "yvkeo";
         echo "qxtyu";
-        echo "ifboc";
 ?>
