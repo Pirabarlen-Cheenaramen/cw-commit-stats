@@ -197,5 +197,4 @@
         echo "anlxt";
         echo "teiur";
         echo "qrrgt";
-        echo "lyeth";
 ?>
