@@ -201,5 +201,4 @@
         echo "trjub";
         echo "ttjft";
         echo "rrupu";
-        echo "quqgy";
 ?>
