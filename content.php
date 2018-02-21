@@ -206,6 +206,5 @@
         echo "lgkpn";
         echo "ynslj";
         echo "ascln";
-        echo "arfws";
-        echo "cupvh";
+        echo "dxssr";
 ?>
