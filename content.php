@@ -206,5 +206,4 @@
         echo "lgkpn";
         echo "ynslj";
         echo "ascln";
-        echo "kgvkg";
 ?>
