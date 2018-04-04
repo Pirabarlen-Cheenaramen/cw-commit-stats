@@ -232,5 +232,5 @@
         echo "uektx";
         echo "nxrdb";
         echo "xnhok";
-        echo "ktnum";
+        echo "nppds";
 ?>
