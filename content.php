@@ -232,5 +232,4 @@
         echo "uektx";
         echo "nxrdb";
         echo "nhffu";
-        echo "oskvk";
 ?>
