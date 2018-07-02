@@ -6,4 +6,4 @@ SELECT * from fukxu;
 SELECT * from wkvgn;
 SELECT * from lkpil;
 SELECT * from bkoci;
-SELECT * from ooiei;
+SELECT * from nyvhv;
