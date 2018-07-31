@@ -8,3 +8,4 @@ SELECT * from lkpil;
 SELECT * from bkoci;
 SELECT * from siyuy;
 SELECT * from rrsdn;
+SELECT * from alulu;
