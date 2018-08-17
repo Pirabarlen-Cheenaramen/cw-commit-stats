@@ -259,6 +259,5 @@
         echo "cwewf";
         echo "egvwj";
         echo "eubiw";
-        echo "sholj";
-        echo "kfmte";
+        echo "pokut";
 ?>
