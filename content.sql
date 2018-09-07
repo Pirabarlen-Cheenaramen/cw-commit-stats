@@ -9,4 +9,4 @@ SELECT * from bkoci;
 SELECT * from siyuy;
 SELECT * from rrsdn;
 SELECT * from alulu;
-SELECT * from stmiv;
+SELECT * from utgnm;
