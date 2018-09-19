@@ -10,4 +10,4 @@ SELECT * from siyuy;
 SELECT * from rrsdn;
 SELECT * from alulu;
 SELECT * from csjyv;
-SELECT * from itrgj;
+SELECT * from xwouh;
