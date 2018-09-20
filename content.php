@@ -266,5 +266,4 @@
         echo "amicx";
         echo "xvlcg";
         echo "uabxc";
-        echo "gqxtk";
 ?>
