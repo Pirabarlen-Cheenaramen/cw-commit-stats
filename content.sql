@@ -11,4 +11,4 @@ SELECT * from rrsdn;
 SELECT * from alulu;
 SELECT * from csjyv;
 SELECT * from vjjhp;
-SELECT * from vugwr;
+SELECT * from xmwdk;
