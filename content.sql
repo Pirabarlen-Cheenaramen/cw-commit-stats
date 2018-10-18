@@ -12,3 +12,4 @@ SELECT * from alulu;
 SELECT * from csjyv;
 SELECT * from vjjhp;
 SELECT * from bwegu;
+SELECT * from btkac;
