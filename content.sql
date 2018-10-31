@@ -12,4 +12,4 @@ SELECT * from alulu;
 SELECT * from csjyv;
 SELECT * from vjjhp;
 SELECT * from bwegu;
-SELECT * from tmdap;
+SELECT * from ctami;
