@@ -283,5 +283,4 @@
         echo "yyfda";
         echo "tpugc";
         echo "xdabt";
-        echo "qpfmq";
 ?>
