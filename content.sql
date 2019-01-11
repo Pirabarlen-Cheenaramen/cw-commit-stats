@@ -13,4 +13,3 @@ SELECT * from csjyv;
 SELECT * from vjjhp;
 SELECT * from bwegu;
 SELECT * from srkxw;
-SELECT * from dmiqb;
