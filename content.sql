@@ -15,4 +15,3 @@ SELECT * from bwegu;
 SELECT * from ptrwo;
 SELECT * from iyrnn;
 SELECT * from mrxno;
-SELECT * from jfxls;
