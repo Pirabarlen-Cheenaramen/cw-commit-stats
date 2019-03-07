@@ -295,5 +295,4 @@
         echo "hyisc";
         echo "talfg";
         echo "sqhap";
-        echo "bpogi";
 ?>
