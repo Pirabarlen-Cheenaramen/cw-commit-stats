@@ -294,5 +294,4 @@
         echo "teqou";
         echo "hyisc";
         echo "talfg";
-        echo "jjjjr";
 ?>
