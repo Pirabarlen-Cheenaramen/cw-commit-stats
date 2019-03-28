@@ -303,5 +303,4 @@
         echo "iohkx";
         echo "dswqb";
         echo "ykgdc";
-        echo "rcpwv";
 ?>
