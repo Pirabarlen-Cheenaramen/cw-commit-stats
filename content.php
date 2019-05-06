@@ -308,5 +308,4 @@
         echo "rrsjk";
         echo "enewv";
         echo "vsowe";
-        echo "kfnsg";
 ?>
