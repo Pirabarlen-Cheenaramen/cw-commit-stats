@@ -321,5 +321,4 @@
         echo "xuljw";
         echo "jdgga";
         echo "gaots";
-        echo "wjsbq";
 ?>
