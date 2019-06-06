@@ -323,5 +323,4 @@
         echo "dtlib";
         echo "xlhdm";
         echo "hsncm";
-        echo "vaeku";
 ?>
