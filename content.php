@@ -321,5 +321,4 @@
         echo "vfchj";
         echo "tntue";
         echo "ielow";
-        echo "kurgo";
 ?>
