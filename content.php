@@ -320,5 +320,4 @@
         echo "afbnm";
         echo "vfchj";
         echo "tntue";
-        echo "gntcy";
 ?>
