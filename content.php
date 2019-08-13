@@ -327,5 +327,4 @@
         echo "koqkh";
         echo "cwfhq";
         echo "fvdtc";
-        echo "lkrul";
 ?>
