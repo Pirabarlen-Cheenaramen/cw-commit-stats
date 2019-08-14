@@ -326,6 +326,5 @@
         echo "seysu";
         echo "koqkh";
         echo "cwfhq";
-        echo "mygde";
-        echo "spiqc";
+        echo "eoisi";
 ?>
