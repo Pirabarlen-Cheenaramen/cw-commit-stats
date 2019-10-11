@@ -330,5 +330,4 @@
         echo "oqbcx";
         echo "ocbkd";
         echo "rirny";
-        echo "apufo";
 ?>
