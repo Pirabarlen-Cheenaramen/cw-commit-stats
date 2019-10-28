@@ -336,5 +336,4 @@
         echo "nbftx";
         echo "xxrqd";
         echo "xrtmo";
-        echo "pvinp";
 ?>
