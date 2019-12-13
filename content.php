@@ -340,5 +340,4 @@
         echo "lwnat";
         echo "aikth";
         echo "byrem";
-        echo "awpqj";
 ?>
