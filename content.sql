@@ -16,4 +16,3 @@ SELECT * from ptrwo;
 SELECT * from iyrnn;
 SELECT * from lmwjo;
 SELECT * from uanro;
-SELECT * from jljyt;
