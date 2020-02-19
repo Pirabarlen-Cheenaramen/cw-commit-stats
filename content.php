@@ -346,5 +346,4 @@
         echo "ytuvi";
         echo "kdhqb";
         echo "imoyi";
-        echo "cjccs";
 ?>
