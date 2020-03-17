@@ -349,5 +349,5 @@
         echo "sxsli";
         echo "pqlet";
         echo "viria";
-        echo "ldyny";
+        echo "veshi";
 ?>
