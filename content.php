@@ -354,5 +354,4 @@
         echo "alkux";
         echo "yunqp";
         echo "yuxar";
-        echo "fyfjs";
 ?>
