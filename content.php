@@ -358,5 +358,4 @@
         echo "xgtso";
         echo "yrtax";
         echo "lohch";
-        echo "xlghw";
 ?>
