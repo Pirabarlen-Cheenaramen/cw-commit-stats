@@ -15,4 +15,4 @@ SELECT * from bwegu;
 SELECT * from ptrwo;
 SELECT * from iyrnn;
 SELECT * from afvfy;
-SELECT * from kuugp;
+SELECT * from dpupp;
