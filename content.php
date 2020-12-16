@@ -372,5 +372,4 @@
         echo "dviqa";
         echo "plueb";
         echo "cbwqc";
-        echo "rtpvs";
 ?>
