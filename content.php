@@ -377,5 +377,4 @@
         echo "sljyb";
         echo "stosl";
         echo "xinso";
-        echo "vaqtg";
 ?>
